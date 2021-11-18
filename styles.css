@@ -1,0 +1,44 @@
+/*This is the css for index.html page*/
+h1 {
+    text-align: center;
+    color: gold;
+    font-size: 75px;
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+    color: gold;
+}
+
+a {
+    position: fixed;
+    bottom: 10px;
+    right: 50%;
+}
+
+body {
+    background-color: beige;
+}
+/*This is the css for the about page*/
+#abh {
+    color: gold;
+}
+
+#abb {
+    background-color: beige;
+}
+
+#aba {
+    position: fixed;
+    bottom: 10px;
+    right: 50%;
+}
+
+#centaur {
+    width: 20%;
+    height: 20%;
+    position: relative;
+    left: 40%;
+}
+/*This is the css for the history page*/
