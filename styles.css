@@ -31,7 +31,7 @@ p {
 /*This is the css for the about page*/
 #abh {
     color: gold;
-    font: Arial;
+    font-family: serif;
 }
 
 #abb {
