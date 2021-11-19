@@ -9,6 +9,9 @@ p {
     text-align: center;
     font-size: larger;
     color: gold;
+    position: fixed;
+    bottom: 20px;
+    right: 43%;
 }
 
 #about {
@@ -17,8 +20,8 @@ p {
     right: 55%;
 }
 
-body {
-    background-color: beige;
+#ibody {
+    background-color: #000000;
 }
 #store{
     position: fixed;
@@ -28,10 +31,11 @@ body {
 /*This is the css for the about page*/
 #abh {
     color: gold;
+    font: Arial;
 }
 
 #abb {
-    background-color: beige;
+    background-color: #000000;
 }
 
 #aba {
@@ -52,9 +56,15 @@ body {
     bottom: 10px;
     right: 45.5%
 }
+#histb {
+    background-color: #000000;
+}
 /*This is the css for the featured page*/
 #storeToHome{
     position: fixed;
     bottom: 10px;
     right: 45.5%
+}
+#featbody {
+    background-color: #000000;
 }
