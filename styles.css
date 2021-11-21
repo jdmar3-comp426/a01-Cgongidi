@@ -1,5 +1,5 @@
 /*This is the css for index.html page*/
-h1 {
+div h1 {
     text-align: center;
     color: gold;
     font-size: 75px;
@@ -50,6 +50,12 @@ a:hover{
     right: 50%;
 }
 
+#abp {
+    color: gold;
+    text-align: center;
+    font-size: 50px;
+}
+
 #centaur{
     width: 20%;
     height: 20%;
@@ -66,11 +72,17 @@ a:hover{
     background-color: #000000;
 }
 /*This is the css for the featured page*/
-#storeToHome{
+#featToHome{
     position: fixed;
     bottom: 10px;
     right: 45.5%
 }
 #featbody {
     background-color: #000000;
+}
+
+#featParagraph {
+    font-size: 50px;
+    color: gold;
+    text-align: center;
 }
