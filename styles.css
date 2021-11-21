@@ -3,6 +3,7 @@ h1 {
     text-align: center;
     color: gold;
     font-size: 75px;
+    border-style: solid;
 }
 
 p.center {
@@ -13,6 +14,10 @@ p.center {
     bottom: 20px;
     right: 43%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a:hover{
+    color: green;
 }
 
 #about {
