@@ -5,13 +5,14 @@ h1 {
     font-size: 75px;
 }
 
-p {
+p.center {
     text-align: center;
     font-size: larger;
     color: gold;
     position: fixed;
     bottom: 20px;
     right: 43%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #about {
